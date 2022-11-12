@@ -23,8 +23,7 @@ const infoAboutMe = {
 ```js
 let someMore = {
   hobbies: ['Play soccer', 'listen to music'],
-  favoritePhrase: {
-    quote: 'You are braver than you think, stronger than you seem and smarter than you think.',
+  favoritePhrase: { 'You are braver than you think, stronger than you seem and smarter than you think.',
     
   }
 }
