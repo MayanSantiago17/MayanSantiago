@@ -24,7 +24,7 @@ const infoAboutMe = {
 let someMore = {
   hobbies: ['Play soccer', 'listen to music'],
   favoritePhrase: { 
-   phrase: 'You are braver than you think, stronger than you seem and smarter than you think.',
+   phrase: 'You are braver than you believe, stronger than you seem and smarter than you think.',
    author: 'Winnie the Pooh' 
   }
 }
